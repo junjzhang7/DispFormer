@@ -1,0 +1,11 @@
+*.csv
+*.pkl
+test.ipynb
+test.py
+*.log
+*.txt
+*__pycache__/
+run_logs/
+wandb/
+data/
+physionet.org/
